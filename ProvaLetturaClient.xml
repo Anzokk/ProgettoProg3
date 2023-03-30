@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListaUtenti>
+	<Utente nomeAccount="Poll">
+		<cognome>Pollaccia</cognome>
+		<nome>Andrea</nome>
+		<email>andrea.pollaccia@email.com</email>
+	</Utente>
+	<Utente nomeAccount="Anzo">
+		<cognome>Plaia</cognome>
+		<nome>Antonino</nome>
+		<email>antonino.plaia@email.com</email>
+	</Utente>
+</ListaUtenti>

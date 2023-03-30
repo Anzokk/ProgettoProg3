@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<StoricoEmail>
+	<Email id="let0001">
+		<mittente>andrea.pollaccia@email.com</mittente>
+		<destinatario>lebron.james@email.com</destinatario>
+		<oggetto>caca</oggetto>
+		<testo>Buongiorno LeGM, come stai? Quando giochi a Los Angeles contro Golden State che voglio vedermi una bella partita?</testo>
+		<dataSpedizione>04-01-2023 15:04</dataSpedizione>
+	</Email>
+	<Email id="let0002">
+		<mittente>stephen.curry@email.com</mittente>
+		<destinatario>andrea.pollaccia@email.com</destinatario>
+		<oggetto>cacaqwe</oggetto>
+		<testo>Night my boy!</testo>
+		<dataSpedizione>04-01-2023 15:38</dataSpedizione>
+	</Email>
+	<Email id="let0003">
+		<mittente>antonino.plaia@email.com</mittente>
+		<destinatario>marco.botta@email.com</destinatario>
+		<oggetto>cacaasd</oggetto>
+		<testo>Buongiorno Marco, quanto viene più o meno a costare un viaggio in Cambogia per due settimane?</testo>
+		<dataSpedizione>04-01-2023 15:04</dataSpedizione>
+	</Email>
+</StoricoEmail>
